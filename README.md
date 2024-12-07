@@ -1,7 +1,7 @@
 # Movie-Recommendation
 
 Introduction:
-The Movie Recommendation System is a tool that predicts and suggests movies to users based on their historical preferences and ratings. It leverages collaborative filtering, a popular recommendation technique, to analyse user behaviour and provide personalized movie recommendations. The system is implemented in Python and demonstrates the fundamental concepts of data pre-processing, similarity calculation, and recommendation generation.
+The Movie Recommendation System is a tool that predicts and suggests movies to users based on their historical preferences and ratings. It leverages collaborative filtering, a popular recommendation technique, to analyse user behaviour and provide personalized movie recommendations. The system is implemented in Python and demonstrates the fundamental concepts of data pre-processing, similarity calculation, and recommendation generations.
 
 Objective:
 The primary goal of this project is to develop a functional movie recommendation system that:
